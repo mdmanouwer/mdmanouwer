@@ -1,4 +1,4 @@
-# Md Manouwer Hussain — Drupal, AI Automation, React, Python & AWS DevOps Engineer
+# Md Manouwer Hussain — Drupal, Wordpress, AI Automation, React, Python & AWS DevOps Engineer
 
 ## Senior Software Engineer and Technical Architect
 
